@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello git version");
         System.out.println("hello git version 2");
         System.out.println("hello git version 3");
+        System.out.println("hello git hot-fix");
     }
 }
